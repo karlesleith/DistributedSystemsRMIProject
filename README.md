@@ -17,12 +17,12 @@ server and returned to the original web client when they next poll the server. T
 overall system architecture:
 
 ## How to Run The Application
-Install Java, Tomcat 
-Open cmd line
-Go to Project Dir containing jar
-Java -jar Dictionary-service.jar
-launch Tomcat
-Copy pasta job-server.war into apache webapps dir
-go to localhost:8080/job-server (Type in "Vader") Merry Christmas!
+1. Install Java, Tomcat 
+2. Open cmd line
+3. Go to Project Dir containing jar
+4. Java -jar Dictionary-service.jar
+5. launch Tomcat
+6. Copy pasta job-server.war into apache webapps dir
+7. Go to localhost:8080/job-server (Type in "Vader") Merry Christmas!
 
 
