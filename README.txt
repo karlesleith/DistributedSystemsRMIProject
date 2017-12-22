@@ -1,4 +1,4 @@
-# DistributedSystemsRMIProject
+﻿# DistributedSystemsRMIProject
 Project Assessment for Distributed Systems 2017  
 
 ## Overview
@@ -17,3 +17,12 @@ server and returned to the original web client when they next poll the server. T
 overall system architecture:
 
 ## How to Run The Application
+Install Java, Tomcat 
+Open cmd line
+Go to Project Dir containing jar
+Java -jar Dictionary-service.jar
+launch Tomcat
+Copy pasta job-server.war into apache webapps dir
+go to localhost:8080/job-server (Type in "Vader") Merry Christmas!
+
+
